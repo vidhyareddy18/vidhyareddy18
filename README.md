@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vidhyareddy18  
 - 👀 I’m interested in web development, building real-world projects, and contributing to open source  
-- 🌱 I’m currently learning Python Full Stack Development (HTML, CSS, JavaScript, Bootstrap, Python, SQL, Flask/Django)  
+- 🌱 I’m a Python Full Stack Developer traine (HTML, CSS, JavaScript, Bootstrap, Python, SQL database,oracle,plsql,Flask/Django)  
 - 💞️ I’m looking to collaborate on frontend and full stack projects, especially tools or apps that help people  
 - 📫 How to reach me: reddyvidhya3006@gmail.com | [LinkedIn](https://www.linkedin.com/in/vidhyareddy18)  
 - 😄 Pronouns: She/Her  
