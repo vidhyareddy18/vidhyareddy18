@@ -6,7 +6,7 @@
 - *** SQL,oracle,plsql}
 - 💞️ I’m actively looking to collaborate on  ** frontend and full stack projects **, especially tools or apps that help people or solve real problems.
 - 📫 How to reach me: reddyvidhya3006@gmail.com
-- ||linkedin  https://www.linkedin.com/in/vidhya-reddy-2116a7339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- linkedin  https://www.linkedin.com/in/vidhya-reddy-2116a7339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love turning ideas into interactive web apps and enjoy learning through hands-on projects!
 - I believe learning should be practical and fun-i ask questions until things actually makes sense😁
