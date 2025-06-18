@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @vidhyareddy18, an aspiring full stack developer. 
+- 👋 Hi, I’m @vidhyareddy, an aspiring full stack developer. 
 - 👀 I’m passionate about web development, building real-world projects, and contributing to open source communities 
-- 🌱 I’m a Python Full Stack Developer traine with hands on 
+- 🌱 I’m a Python Full Stack Developer traine with hands-on experience in:
 - *** {HTML, CSS, JavaScript, Bootstrap
 - *** Python,Flask/Django
 - *** SQL,oracle,plsql}
 - 💞️ I’m actively looking to collaborate on  ** frontend and full stack projects **, especially tools or apps that help people or solve real problems.
-- 📫 How to reach me: reddyvidhya3006@gmail.com | [LinkedIn](https://www.linkedin.com/in/vidhyareddy18)  
+- 📫 How to reach me: reddyvidhya3006@gmail.com
+- ||linkedin  https://www.linkedin.com/in/vidhya-reddy-2116a7339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love turning ideas into interactive web apps and enjoy learning through hands-on projects!
+- I believe learning should be practical and fun-i ask questions until things actually makes sense😁
