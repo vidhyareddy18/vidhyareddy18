@@ -4,7 +4,7 @@
 - *** {HTML, CSS, JavaScript, Bootstrap
 - *** Python,Flask/Django
 - *** SQL,oracle,plsql}
-- 💞️ I’m actively looking to collaborate  ** frontend and full stack projects**, especially tools or apps that help people or solve real problems.
+- 💞️ I’m actively looking to collaborate on  ** frontend and full stack projects **, especially tools or apps that help people or solve real problems.
 - 📫 How to reach me: reddyvidhya3006@gmail.com | [LinkedIn](https://www.linkedin.com/in/vidhyareddy18)  
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love turning ideas into interactive web apps and enjoy learning through hands-on projects!
